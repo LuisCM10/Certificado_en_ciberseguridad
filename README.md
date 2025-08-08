@@ -41,6 +41,14 @@ El objetivo es **documentar mi progreso**, demostrar competencias adquiridas y s
 
 ---
 
+## 🛠️ Herramientas Utilizadas
+- **Sistemas operativos:** Linux (Ubuntu), Windows Server.  
+- **Redes y análisis:** Wireshark, nmap, netcat, tcpdump.  
+- **Seguridad:** OpenSSL, Fail2ban, iptables.  
+- **Control de versiones:** Git y GitHub.
+
+---
+
 ## 📂 Estructura del Repositorio
 ```plaintext
 📁 Certificado-Ciberseguridad/
@@ -49,9 +57,3 @@ El objetivo es **documentar mi progreso**, demostrar competencias adquiridas y s
  ├── 📁 proyectos/             # Proyectos aplicados
  ├── 📁 Auditorias e Informes/ # Auditoria e informes practicos
  └── 📁 recursos/              # Material de apoyo
-
-## 🛠️ Herramientas Utilizadas
-- **Sistemas operativos:** Linux (Ubuntu), Windows Server.  
-- **Redes y análisis:** Wireshark, nmap, netcat, tcpdump.  
-- **Seguridad:** OpenSSL, Fail2ban, iptables.  
-- **Control de versiones:** Git y GitHub.
