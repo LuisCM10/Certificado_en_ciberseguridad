@@ -46,3 +46,11 @@ El objetivo es **documentar mi progreso**, demostrar competencias adquiridas y s
 - **Redes y análisis:** Wireshark, nmap, netcat, tcpdump.  
 - **Seguridad:** OpenSSL, Fail2ban, iptables.  
 - **Control de versiones:** Git y GitHub.
+
+---
+
+## 📂 Estructura del Repositorio
+```plaintext
+📁 Certificado-Ciberseguridad/
+ ├── 📄 README.md              # Documentación principal
+ ├── 📁 practicas/             # Ejercicios y laboratorios
