@@ -41,6 +41,15 @@ El objetivo es **documentar mi progreso**, demostrar competencias adquiridas y s
 
 ---
 
+## 📂 Estructura del Repositorio
+```plaintext
+📁 Certificado-Ciberseguridad/
+ ├── 📄 README.md              # Documentación principal
+ ├── 📁 practicas/             # Ejercicios y laboratorios
+ ├── 📁 proyectos/             # Proyectos aplicados
+ ├── 📁 Auditorias e Informes/ # Auditoria e informes practicos
+ └── 📁 recursos/              # Material de apoyo
+
 ## 🛠️ Herramientas Utilizadas
 - **Sistemas operativos:** Linux (Ubuntu), Windows Server.  
 - **Redes y análisis:** Wireshark, nmap, netcat, tcpdump.  
